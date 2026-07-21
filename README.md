@@ -1,5 +1,11 @@
 🧊 IoT-Based Smart Refrigerator with Intelligent Inventory Management
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![ESP32](https://img.shields.io/badge/ESP32-IoT-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![Blynk](https://img.shields.io/badge/Blynk-IoT-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 An IoT-enabled Smart Refrigerator system that integrates **ESP32**, **RFID authentication**, **Python**, **OpenCV**, **QR code detection**, **Load Cell (HX711)**, **DHT22 temperature monitoring**, and **Blynk Cloud** to provide secure access, real-time inventory tracking, environmental monitoring, and intelligent food management.
 
 ---
