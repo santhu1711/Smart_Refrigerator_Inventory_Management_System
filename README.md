@@ -108,6 +108,48 @@ The complete project documentation is available in the `docs` folder.
 
 ---
 
+## 🚀 Installation
+
+### Clone Repository
+
+git clone https://github.com/santhu1711/Smart_Refrigerator_Inventory_Management_System.git
+
+### ESP32
+
+- Install Arduino IDE
+- Install ESP32 Board Package
+- Install Required Libraries
+
+### Python
+
+pip install -r requirements.txt
+python smart_refrigerator.py
+## 🚀 Future Enhancements
+
+- AI-based food expiry prediction
+- Mobile Application
+- Voice Assistant Integration
+- OCR-based label detection
+- Firebase Database
+- Email Notifications
+- Machine Learning for food recommendations
+
+---
+
+## 📈 Project Outcome
+
+✔ Reduced manual inventory management
+
+✔ Improved food monitoring
+
+✔ Enhanced refrigerator security
+
+✔ Real-time IoT monitoring
+
+✔ Modular architecture for future AI integration
+
+---
+
 ## 👨‍💻 Author
 
 **Santhosh S.**
