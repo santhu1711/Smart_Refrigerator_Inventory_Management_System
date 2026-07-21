@@ -68,3 +68,49 @@ By combining embedded systems, computer vision, cloud connectivity, and automati
 - Serial Communication (ESP32 ↔ Python)
 - Wi-Fi
 - Blynk Cloud
+
+---
+
+## 📂 Repository Structure
+
+```text
+Smart_Refrigerator_Inventory_Management_System
+│
+├── demo/
+│   └── Smart_Refrigerator_Demo.mp4
+│
+├── docs/
+│   └── Project_Documentation.pdf
+│
+├── esp32/
+│   └── Smart_Refrigerator.ino
+│
+├── python/
+│   └── smart_refrigerator.py
+│
+├── images/
+│
+├── LICENSE
+└── README.md
+```
+
+---
+
+## 🎥 Project Demonstration
+
+A complete working demonstration of the Smart Refrigerator system is available in the `demo` folder.
+
+---
+
+## 📄 Project Documentation
+
+The complete project documentation is available in the `docs` folder.
+
+---
+
+## 👨‍💻 Author
+
+**Santhosh S.**
+
+- GitHub: https://github.com/santhu1711
+- LinkedIn: https://www.linkedin.com/in/santhosh17/
