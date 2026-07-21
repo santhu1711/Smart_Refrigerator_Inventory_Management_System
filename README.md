@@ -108,9 +108,17 @@ A complete working demonstration of the Smart Refrigerator system is available i
 
 ---
 
-## 📄 Project Documentation
+## ⚙️ How It Works
 
-The complete project documentation is available in the `docs` folder.
+1. User scans RFID card for authentication.
+2. ESP32 verifies the user access.
+3. Camera captures food item QR code.
+4. Python + OpenCV processes the QR data.
+5. Inventory details are updated automatically.
+6. Load cell measures quantity changes.
+7. DHT22 monitors refrigerator temperature.
+8. ESP32 sends sensor data to Blynk Cloud.
+9. User can monitor refrigerator status remotely.
 
 ---
 
