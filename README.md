@@ -1,4 +1,4 @@
-this is the # 🧊 IoT-Based Smart Refrigerator with Intelligent Inventory Management
+🧊 IoT-Based Smart Refrigerator with Intelligent Inventory Management
 
 An IoT-enabled Smart Refrigerator system that integrates **ESP32**, **RFID authentication**, **Python**, **OpenCV**, **QR code detection**, **Load Cell (HX711)**, **DHT22 temperature monitoring**, and **Blynk Cloud** to provide secure access, real-time inventory tracking, environmental monitoring, and intelligent food management.
 
@@ -123,7 +123,11 @@ git clone https://github.com/santhu1711/Smart_Refrigerator_Inventory_Management_
 ### Python
 
 pip install -r requirements.txt
+
 python smart_refrigerator.py
+
+---
+
 ## 🚀 Future Enhancements
 
 - AI-based food expiry prediction
