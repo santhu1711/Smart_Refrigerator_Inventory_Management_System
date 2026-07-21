@@ -96,9 +96,11 @@ Smart_Refrigerator_Inventory_Management_System
 
 ---
 
-## 🎥 Project Demonstration
+## 🎥 Demo
 
-A complete working demonstration of the Smart Refrigerator system is available in the `demo` folder.
+Watch the complete demonstration inside:
+
+demo/Smart_Refrigerator_Demo.mp4
 
 ---
 
