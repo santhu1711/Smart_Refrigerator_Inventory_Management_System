@@ -108,6 +108,28 @@ The complete project documentation is available in the `docs` folder.
 
 ---
 
+## 🚀 Future Enhancements
+
+- AI-based food expiry prediction
+- Mobile Application
+- Voice Assistant Integration
+- OCR-based label detection
+- Firebase Database
+- Email Notifications
+- Machine Learning for food recommendations
+
+## 📈 Project Outcome
+
+✔ Reduced manual inventory management
+
+✔ Improved food monitoring
+
+✔ Enhanced refrigerator security
+
+✔ Real-time IoT monitoring
+
+✔ Modular architecture for future AI integration
+
 ## 👨‍💻 Author
 
 **Santhosh S.**
